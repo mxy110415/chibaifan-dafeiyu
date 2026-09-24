@@ -1,5 +1,5 @@
 {
-  "version": "0.22.9",
+  "version": "0.22.10",
   "url": "https://github.com/mxy110415/chibaifan-dafeiyu/releases/latest/download/chibaifandafeiyu-latest.apk",
-  "notes": "0.22.9：同 0.22.7（修复键盘弹出时输入框/消息卡片材质变灰变深），仅版本号 +1。"
+  "notes": "0.22.10：点「前往下载」直接打开下载页（网页上有两个下载链接）；卡片毛玻璃恢复实时采样。"
 }

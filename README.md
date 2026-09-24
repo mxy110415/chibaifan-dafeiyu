@@ -10,7 +10,7 @@
 
 ### [**下载最新版 APK**](https://github.com/mxy110415/chibaifan-dafeiyu/releases/latest/download/chibaifandafeiyu-latest.apk)
 
-**当前版本：0.22.9** · 需要 Android 7.0（API 24）及以上
+**当前版本：0.22.10** · 需要 Android 7.0（API 24）及以上
 
 > 上面那个链接永远指向**最新版**。手机点开即下；想按版本挑，去右侧 **Releases**。
 
