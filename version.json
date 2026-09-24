@@ -1,5 +1,5 @@
 {
-  "version": "0.22.7",
+  "version": "0.22.8",
   "url": "https://github.com/mxy110415/chibaifan-dafeiyu/releases/latest/download/chibaifandafeiyu-latest.apk",
-  "notes": "0.22.7：修复「键盘弹出时输入框/消息卡片材质变灰、变深」——毛玻璃改成固定取样，卡片位置怎么变材质都不变。"
+  "notes": "0.22.8：同 0.22.7（修复键盘弹出时输入框/消息卡片材质变灰变深），仅版本号 +1。"
 }
