@@ -8,7 +8,7 @@
 
 ## ⬇️ 下载
 
-### [**下载最新版 APK**](https://github.com/mxy110415/love-agent-app/releases/latest/download/love-agent-app-latest.apk)
+### [**下载最新版 APK**](https://github.com/mxy110415/chibaifan-dafeiyu/releases/latest/download/love-agent-app-latest.apk)
 
 **当前版本：0.22.4** · 需要 Android 7.0（API 24）及以上
 
