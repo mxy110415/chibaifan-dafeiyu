@@ -1,5 +1,5 @@
 {
-  "version": "0.22.6",
+  "version": "0.22.7",
   "url": "https://github.com/mxy110415/chibaifan-dafeiyu/releases/latest/download/chibaifandafeiyu-latest.apk",
-  "notes": "0.22.6：App 内直接下载新版（不再跳浏览器），下载时通知栏常驻显示「吃白饭的大肥鱼」，下完自动弹安装确认；下载文件名改为 chibaifandafeiyu-版本号.apk；修复毛玻璃「一打字材质就变深」与启动自动检测更新不认开关的问题。"
+  "notes": "0.22.7：修复「键盘弹出时输入框/消息卡片材质变灰、变深」——毛玻璃改成固定取样，卡片位置怎么变材质都不变。"
 }
