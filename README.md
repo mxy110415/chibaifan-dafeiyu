@@ -1,4 +1,4 @@
-# love agent
+# 吃白饭的大肥鱼
 
 **把你的 Hermes 装进口袋** —— 安卓客户端（Miuix / HyperOS 原生观感）。
 
@@ -10,7 +10,7 @@
 
 ### [**下载最新版 APK**](https://github.com/mxy110415/love-agent-app/releases/latest/download/love-agent-app-latest.apk)
 
-**当前版本：0.22.3** · 需要 Android 7.0（API 24）及以上
+**当前版本：0.22.4** · 需要 Android 7.0（API 24）及以上
 
 > 上面那个链接永远指向**最新版**。手机点开即下；想按版本挑，去右侧 **Releases**。
 
